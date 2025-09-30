@@ -1,0 +1,6 @@
+notebooks
+scripts
+.cursorignore
+.DS_Store
+configs
+.env
